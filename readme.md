@@ -1,18 +1,23 @@
 
 # Hi 👋, welcome to my profile github
 
-<!-- ![Profile views](https://gpvc.arturio.dev/dien16?v=3) -->
+<!-- ![Profile views](https://gpvc.arturio.dev/dieennn?v=3) -->
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=dien16)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=dieennn)
 
-## My stats
+### :zap: GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dien16&show_icons=true" alt="githubStats" align='center' /> 
+<p align="center">
+  <img height="180em" src="https://gh-readme-stats-intfd.vercel.app/api?username=dieennn&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://gh-readme-stats-intfd.vercel.app/api/top-langs/?username=dieennn&layout=compact&langs_count=6"/>
+</p>
 
-&nbsp;
+### :headphones: I'm listening
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=intifada&layout=compact" alt="wakatimeWikeStats" align='center' />
+<a href="https://spotify-now-playing-intfd.vercel.app/now-playing?open">
+  <img src="https://spotify-now-playing-intfd.vercel.app/now-playing" height="100" width="100%">
+</a>
 
-<a href="https://spotify-now-playing-intfd.vercel.app/now-playing?open"><img src="https://spotify-now-playing-intfd.vercel.app/now-playing" width="850" height="100"></a>
+### :fire: Motivated
 
 <img src="https://ghp-text-gen.intfd.vercel.app/svg" width="100%" height="100">
