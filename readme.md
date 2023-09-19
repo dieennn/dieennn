@@ -3,7 +3,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/dieennn?v=3) -->
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=dieennn)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=dieennn&format=true)
 
 ### :zap: GitHub Stats
 
@@ -14,8 +14,8 @@
 
 ### :headphones: I'm listening
 
-<a href="https://spotify-now-playing-intfd.vercel.app/now-playing?open">
-  <img src="https://spotify-now-playing-intfd.vercel.app/now-playing" height="100" width="100%">
+<a href="https://spotify-n0w-playing.vercel.app/now-playing?open">
+  <img src="https://spotify-n0w-playing.vercel.app/now-playing" height="100" width="100%">
 </a>
 
 ### :fire: Motivated
